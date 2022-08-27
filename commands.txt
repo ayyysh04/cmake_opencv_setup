@@ -1,2 +1,4 @@
 cmake . -G "MinGW Makefiles"
 mingw32-make.exe
+
+refer : https://www.youtube.com/watch?v=03DAsDRmtvA
