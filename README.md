@@ -1,4 +1,4 @@
-# CMake with opencv config
+# CMake with opencv and mingw config
 
 ## Clone the repo
 
