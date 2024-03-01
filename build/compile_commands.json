@@ -1,7 +1,0 @@
-[
-{
-  "directory": "D:/Project/opencv-config-with-vscode-master/temp/build",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/display_image.dir/includes_CXX.rsp -g -o CMakeFiles\\display_image.dir\\Opencv_hello_world.cpp.obj -c D:\\Project\\opencv-config-with-vscode-master\\temp\\Opencv_hello_world.cpp",
-  "file": "D:/Project/opencv-config-with-vscode-master/temp/Opencv_hello_world.cpp"
-}
-]

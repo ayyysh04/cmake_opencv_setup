@@ -1,3 +1,0 @@
-D:/Project/opencv-config-with-vscode-master/temp/CMakeFiles/display_image.dir
-D:/Project/opencv-config-with-vscode-master/temp/CMakeFiles/edit_cache.dir
-D:/Project/opencv-config-with-vscode-master/temp/CMakeFiles/rebuild_cache.dir
