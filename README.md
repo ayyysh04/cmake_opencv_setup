@@ -32,5 +32,9 @@ PATH C:\Program Files\CMake\bin
 ## mingw compiled opencv
 PATH C:\OpenCV-MinGW-Build-OpenCV-4.5.5-x64\x64\mingw\bin
 
-## mingw compiler (8.4.0)
+## mingw compiler (8.1.0)
 PATH C:\mingw64\bin
+
+## cmake compiler path list (locally)
+Use if multiple gcc compiler in system
+set new gcc 8.1.0 path in C:\Users\Ayush\AppData\Local\CMakeTools\cmake-tools-kits.json 

@@ -8,7 +8,7 @@ using namespace cv;
 
 int main()
 {
-    string path = "D:/Project/opencv-config-with-vscode-master/temp/lenna.jpg";
+    string path = "D:/Learning Technolgies/cmake_opencv_setup/lenna.jpg";
     Mat img = imread(path);
     if (img.empty())
     {
