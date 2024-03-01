@@ -21,3 +21,16 @@
 - run exe file
 
 refer : https://www.youtube.com/watch?v=03DAsDRmtvA
+
+## opencv env setup
+OPENCV_DIR C:\opencv\build
+PATH C:\opencv\build\x64\mingw\lib C:\opencv\build\x64\mingw\bin
+
+## cmake setup
+PATH C:\Program Files\CMake\bin
+
+## mingw compiled opencv
+PATH C:\OpenCV-MinGW-Build-OpenCV-4.5.5-x64\x64\mingw\bin
+
+## mingw compiler (8.4.0)
+PATH C:\mingw64\bin
